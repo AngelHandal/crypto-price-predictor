@@ -1,0 +1,16 @@
+# Ignorar archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignorar entornos virtuales
+venv/
+.env/
+
+# Ignorar archivos de Docker
+.dockerignore
+
+# Ignorar otros archivos de configuración
+.DS_Store
+.vscode/
